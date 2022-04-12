@@ -11,6 +11,7 @@ Includes:
 - Gamemode setup and correct Project Settings
 - Ingame Sky, SFX and PostProcessing maps
 - All PMAT's
+- A Scale reference mesh (credit to James "Talon" O'Hare)
 
 Examples:
 - Handrail collision
