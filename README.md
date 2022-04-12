@@ -22,8 +22,11 @@ Examples:
 
 TODO:
 - Improve QP collision (currently uses complex for the transition)
+- Improve Handrail skateability
 - Decal example
 - PMAT examples
-- Random spawn points
+- Random spawn point Blueprint
 - Light toggle with keyboard key
 - "Voxel" collision for big round rails
+- Install instructions
+- Wiki page for collisions
