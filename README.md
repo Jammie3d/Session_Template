@@ -18,3 +18,12 @@ Examples:
 - Curved ledge collision
 - Quarter Pipe collision
 - Auto toggle Day/Night lights (Spotlight and Emissive materials)
+
+
+TODO:
+- Improve QP collision (currently uses complex for the transition)
+- Decal example
+- PMAT examples
+- Random spawn points
+- Light toggle with keyboard key
+- "Voxel" collision for big round rails
