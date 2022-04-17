@@ -21,7 +21,6 @@ Examples:
 
 
 TODO:
-- Improve QP collision (currently uses complex for the transition)
 - Improve Handrail skateability
 - Decal example
 - PMAT examples
