@@ -21,12 +21,10 @@ Examples:
 
 
 TODO:
-- Improve Handrail skateability
 - Decal example
 - PMAT examples
-- Random spawn point Blueprint
+- Random spawn point Blueprint example
 - Light toggle with keyboard key
 - "Voxel" collision for big round rails
 - Install instructions
-- Wiki page for collisions
 - RMS Compatibility
