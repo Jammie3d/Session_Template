@@ -4,7 +4,7 @@ A basic Unreal Engine project template designed for Session modding.
 
 Feel free to download and use it as a start for your own custom Session map project.
 
-Also check out the [Wiki](../wiki)!
+Also check out the [Wiki](../../wiki)!
 
 ![Overview Screenshot](/Screenshot_01.png)
 
