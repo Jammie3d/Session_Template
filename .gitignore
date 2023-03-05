@@ -91,3 +91,5 @@ Build/Android/res/*/*
 *.blend1
 *.lnk
 Wiki/*
+RawContent/*
+!RawContent/Blender/fbx/*
