@@ -6,7 +6,7 @@ Feel free to download and use it as a start for your own custom Session map proj
 
 Also check out the [Wiki](../../wiki)!
 
-![Overview Screenshot](/Screenshot_01.png)
+![Overview Screenshot](https://user-images.githubusercontent.com/60801006/222937054-25ddc10b-4eeb-4d18-abfd-9c588744d35d.png)
 
 Includes:
 
